@@ -1,0 +1,3 @@
+[0830/232624.651:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0830/232629.675:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0830/234228.163:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
